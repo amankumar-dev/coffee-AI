@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coffee-AI/static/css/main.29ce0043.css",
+    "main.js": "/coffee-AI/static/js/main.479e4bde.js",
+    "static/media/8.png": "/coffee-AI/static/media/8.af591531244ed22064e6.png",
+    "index.html": "/coffee-AI/index.html",
+    "main.29ce0043.css.map": "/coffee-AI/static/css/main.29ce0043.css.map",
+    "main.479e4bde.js.map": "/coffee-AI/static/js/main.479e4bde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ce0043.css",
+    "static/js/main.479e4bde.js"
+  ]
+}
